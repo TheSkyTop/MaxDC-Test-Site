@@ -1,0 +1,16 @@
+{
+  "name": "MaxDC — Australian Data Centre Development",
+  "short_name": "MaxDC",
+  "description": "Large-scale, power-led data centre infrastructure development across Australia.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#edf4f7",
+  "theme_color": "#082337",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
