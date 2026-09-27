@@ -36,7 +36,7 @@
     ]
   },
   "app/contact/page.tsx": {
-    "file": "_next/static/chunks/page-Bkd0PMYU.js",
+    "file": "_next/static/chunks/page-QiAc4jsO.js",
     "name": "page",
     "src": "app/contact/page.tsx",
     "isDynamicEntry": true,
@@ -49,7 +49,7 @@
     ]
   },
   "components/project-modal.tsx": {
-    "file": "_next/static/chunks/project-modal-xlLYobib.js",
+    "file": "_next/static/chunks/project-modal-SrMlC_n5.js",
     "name": "project-modal",
     "src": "components/project-modal.tsx",
     "isDynamicEntry": true,
@@ -61,7 +61,7 @@
     ]
   },
   "components/site-chrome.tsx": {
-    "file": "_next/static/chunks/site-chrome-DqsOvyAN.js",
+    "file": "_next/static/chunks/site-chrome-B33OPDKD.js",
     "name": "site-chrome",
     "src": "components/site-chrome.tsx",
     "isDynamicEntry": true,
@@ -74,7 +74,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/image.js": {
-    "file": "_next/static/chunks/image-DeWPdZ0y.js",
+    "file": "_next/static/chunks/image-B-MHPmyd.js",
     "name": "image",
     "src": "node_modules/vinext/dist/shims/image.js",
     "isDynamicEntry": true,
@@ -85,7 +85,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "_next/static/chunks/app-route-prefetch-policy-BofKXqbN.js",
+    "file": "_next/static/chunks/app-route-prefetch-policy-Q3TbkNjm.js",
     "name": "app-route-prefetch-policy",
     "src": "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
     "isDynamicEntry": true,
@@ -94,7 +94,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-CcXNbhpg.js",
+    "file": "_next/static/chunks/layout-segment-context-BupiBsRf.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -116,7 +116,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-piYH60sv.js",
+    "file": "_next/static/chunks/index-CHkiUM_B.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
